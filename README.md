@@ -1,10 +1,10 @@
 <div align="center">
 
-#Hey! My name is Shawn, what's your name?
+sh4wn
 
 **engineer · researcher · builder**
 
-junior @ tjhsst · northern virginia · ai × biomedicine × robotics
+junior @ tjhsst · northern virginia · ai × biomedicine × robotics x engineering
 
 </div>
 
