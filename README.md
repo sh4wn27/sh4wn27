@@ -2,7 +2,7 @@
 
 sh4wn
 
-**engineer · researcher · builder**
+**engineer · researcher · builder · leader****
 
 junior @ tjhsst · northern virginia · ai × biomedicine × robotics x engineering
 
