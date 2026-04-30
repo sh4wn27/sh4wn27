@@ -2,7 +2,7 @@
 
 sh4wn
 
-**engineer · researcher · builder · leader****
+**engineer · researcher · builder · leader**
 
 junior @ tjhsst · northern virginia · ai × biomedicine × robotics x engineering
 
@@ -22,16 +22,14 @@ immigrated from china, taught myself english, received a cord blood transplant f
 `02` &nbsp;**[Competing-Risks Survival Analysis](https://github.com/sh4wn27/heta)** — Pediatric HSCT Outcomes  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solo-authored · 187 patients · LASSO Cox (p=0.002) · *preparing for arXiv*
 
-`03` &nbsp;**[Growing Up with Robotics](https://growingupwithrobotics.org)** — International 501(c)(3)  
+`03` &nbsp;**[HLA Equity Simulation](https://github.com/sh4wn27/immu)** — Bioengienering and computationl simulation research on immunocloaking strategies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Insitution superivsed ·  Stealth-polymer HLA-masking cuts the 31-fold African American vs. European donor-match disparity to 4.7-fold (85% reduction), with African Americans gaining the largest relative benefit at 216× pool expansion
+
+`04` &nbsp;**[Predicting Energy Consumption in CPU-Based Deep Learning Training](https://github.com/sh4wn27/energyModel)** — Total energy consumed during a CPU-based deep learning training run  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Insitution superivsed ·  Active compute time and instantaneous power draw together account for nearly all variance in CPU training energy (adj. R² = 0.9989)
+
+`05` &nbsp;**[Growing Up with Robotics](https://growingupwithrobotics.org)** — International 501(c)(3)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7,000+ students across multiple countries · executive director
-
----
-
-**research**
-
-[Stanford iGEM](https://igem.org) &nbsp;·&nbsp; immunocloaking  
-[George Mason University](https://www2.gmu.edu) (ASSIP) &nbsp;·&nbsp; [published in JSSR, Vol. 7 (2025) ↗](https://doi.org/10.13021/jssr2025.5366)  
-Children's National Hospital &nbsp;·&nbsp; clinical research
 
 ---
 
