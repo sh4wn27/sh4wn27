@@ -1,12 +1,10 @@
 <div align="center">
 
-# Huanxuan Li
+# sh4wn
 
 **engineer · researcher · builder**
 
 also known as Shawn
-
-![](https://img.shields.io/badge/building%20CAPA%20—%202%20pending%20patents-22c55e?style=flat-square&labelColor=111111&color=22c55e)
 
 junior @ tjhsst · northern virginia · ai × biomedicine × robotics
 
