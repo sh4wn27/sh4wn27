@@ -12,10 +12,6 @@ junior @ tjhsst · northern virginia · ai × biomedicine × robotics
 
 ---
 
-immigrated from china, taught myself english, received a cord blood transplant for beta-thalassemia as a child — which is why transplant immunology and GvHD aren't just academic for me.
-
----
-
 **selected work**
 
 `01` &nbsp;**[CAPA](https://github.com/sh4wn27/capa)** — Clinical AI for Prediction & Analysis  
