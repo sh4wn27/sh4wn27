@@ -17,7 +17,7 @@ junior @ tjhsst · northern virginia · ai × biomedicine × robotics
 `01` &nbsp;**[CAPA](https://github.com/sh4wn27/capa)** — Clinical AI for Prediction & Analysis  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ESM-2 + cross-attention + DeepHit · GvHD/relapse/TRM prediction · *2 pending patents*
 
-`02` &nbsp;**[SkinAI](https://github.com/sh4wn27/skinai)** — Dermatology Classification System  
+`02` &nbsp;**[SKINAI](https://github.com/sh4wn27/skinai)** — Dermatology Classification System  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Computer vision · 8,000+ users · deployed mobile + web · *pending patent*
 
 `03` &nbsp;**[Growing Up with Robotics](https://growingupwithrobotics.org)** — International 501(c)(3)  
