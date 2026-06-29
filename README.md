@@ -6,7 +6,8 @@
 
 also known as Shawn
 
-<img width="2268" height="4032" alt="944B4219-61EB-49D8-83F5-FBE0C250E9F7_1_201_a" src="https://github.com/user-attachments/assets/82557a7f-a909-488d-a4c7-cfa741bf4d25" />
+<img width="480" height="359" alt="EFD277C6-3CBD-4C48-B5B2-586C495DCDC4_4_5005_c" src="https://github.com/user-attachments/assets/72873bd5-d57d-487f-a82c-1f3f61bfabd5" />
+
 
 
 junior @ tjhsst · northern virginia · ai × biomedicine × robotics
