@@ -1,8 +1,14 @@
-<img width="480" height="359" alt="EFD277C6-3CBD-4C48-B5B2-586C495DCDC4_4_5005_c" src="https://github.com/user-attachments/assets/72873bd5-d57d-487f-a82c-1f3f61bfabd5" />
+<div align="center">
 
+  <img
+    width="480"
+    alt="Profile image"
+    src="https://github.com/user-attachments/assets/72873bd5-d57d-487f-a82c-1f3f61bfabd5"
+  />
 
+  <br><br>
 
-junior @ tjhsst · northern virginia · ai × biomedicine × robotics
+  junior @ tjhsst · northern virginia · ai × biomedicine × robotics
 
 </div>
 
