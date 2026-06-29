@@ -8,8 +8,9 @@
 
   <br><br>
   junior @ tjhsst · northern virginia · ai × biomedicine × robotics
+  
+  **reach out**
+
+[shawnli1028@gmail.com](mailto:shawnli1028@gmail.com) &nbsp;·&nbsp; [linkedin ↗](https://www.linkedin.com/in/huanxuan-li-b99ba72a5/) &nbsp;·&nbsp; [website ↗](https://sh4wn.org)
 </div>
 ---
-**reach out**
-
-[shawnli1028@gmail.com](mailto:shawnli1028@gmail.com) &nbsp;·&nbsp; [github ↗](https://github.com/sh4wn27) &nbsp;·&nbsp; [linkedin ↗](https://www.linkedin.com/in/huanxuan-li-b99ba72a5/) &nbsp;·&nbsp; [website ↗](https://sh4wn.org)
