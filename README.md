@@ -11,6 +11,6 @@
   
   **reach out**
 
-[shawnli1028@gmail.com](mailto:shawnli1028@gmail.com) &nbsp;·&nbsp; [linkedin ↗](https://www.linkedin.com/in/huanxuan-li-b99ba72a5/) &nbsp;·&nbsp; [website ↗](https://sh4wn.org)
+[shawnli1028@gmail.com](mailto:shawnli1028@gmail.com) &nbsp;·&nbsp;[2027hli@tjhsst.edu](mailto:2027hli@tjhsst.edu) &nbsp;·&nbsp; [linkedin ↗](https://www.linkedin.com/in/huanxuan-li-b99ba72a5/) &nbsp;·&nbsp; [website ↗](https://sh4wn.org)
 </div>
 ---
